@@ -17,6 +17,7 @@
     "ios": {
       "supportsTablet": true
     },
+    "scheme": "airy-clothy-care",
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
